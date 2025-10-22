@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "name": "Virat Kohli",
+      "cls": "RCB",
+      "id": "P001",
+      "roll": 18
+    },
+    {
+      "name": "Rohit Sharma",
+      "cls": "MI",
+      "id": "P002",
+      "roll": 45
+    },
+    {
+      "name": "MS Dhoni",
+      "cls": "CSK",
+      "id": "P003",
+      "roll": 7
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "cls": "MI",
+      "id": "P004",
+      "roll": 93
+    },
+    {
+      "name": "KL Rahul",
+      "cls": "LSG",
+      "id": "P005",
+      "roll": 1
+    },
+    {
+      "name": "Rishabh Pant",
+      "cls": "DC",
+      "id": "P006",
+      "roll": 17
+    },
+    {
+      "name": "Shreyas Iyer",
+      "cls": "KKR",
+      "id": "P007",
+      "roll": 28
+    },
+    {
+      "name": "Hardik Pandya",
+      "cls": "GT",
+      "id": "P008",
+      "roll": 33
+    },
+    {
+      "name": "Andre Russell",
+      "cls": "KKR",
+      "id": "P009",
+      "roll": 25
+    },
+    {
+      "name": "Sanju Samson",
+      "cls": "RR",
+      "id": "P010",
+      "roll": 9
+    }
+  ]
+}
